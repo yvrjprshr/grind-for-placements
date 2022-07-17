@@ -11,3 +11,7 @@ It has 2 wild card characters
 ```_``` -> Represents single character
 
 ---
+
+```DISTINCT Country``` => shows unqiue or different values
+
+---
