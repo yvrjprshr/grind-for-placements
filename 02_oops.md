@@ -1,4 +1,34 @@
+# MCQS/one Liners
+
+- the implicit return type of constructor is ```a class object in which it is defined```
+
+- The object created with a new keyword during ```run-time```.
+
+- There are 3 types of constructor ``` Default, Parameterized and Copy constructor```
+
+- ```::``` is the scope resolution operator.
+
+- ```Friend function``` is not a member of the class.
+
+- Data members and member functions of a class are always ```private``` by default.
+
+- Base class and derived class relationship come under ```inheritance```.
+
+- ```Single, Multiple, Multilevel, Hierarchical, Hybrid Inheritance``` types of inheritence in c++
+
+- An object is an ```instance of the class```.
+
+- Reusability is a desirable feature as it ```decreases the testing time```.
+
+- ```(>>) and (.) operator``` cannot be overloaded.
+
+- Overloading is also known as ```Ad-hoc``` polymorphism.
+
+- Fields in the structure are ```public``` by default.
+
+
 # Interview Questions
+
 
 # Implementation/Code
 
