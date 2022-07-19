@@ -92,7 +92,7 @@
 
 - The ```COUNT``` is used to return the ```total values``` in SQL.
 
-- 
+
 
 
 
