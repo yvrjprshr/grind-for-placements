@@ -1,7 +1,6 @@
 # Important Things DSA
 
 <details>
-<details>
 <summary>Linked List</summary>
 
 <details>
@@ -15,5 +14,6 @@
 
 <details>
 
+<details>
 
 </details>
