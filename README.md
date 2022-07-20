@@ -3,16 +3,16 @@
 <details>
 <summary>Linked List</summary>
 
-<details>
+</details>
 
 <details>
 <summary>Tree</summary>
 
-<details>
+</details>
 <details>
 <summary>Graph</summary>
 
-<details>
+</details>
 
 <details>
 
