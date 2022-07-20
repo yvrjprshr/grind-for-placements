@@ -1,19 +1,19 @@
 # Important Things DSA
 
+# Linked List
 <details>
-<summary>Linked List</summary>
-
+<summary>Basics</summary>
 </details>
 
 <details>
-<summary>Tree</summary>
-
-</details>
-<details>
-<summary>Graph</summary>
-
+<summary>Top Interview Problems</summary>
 </details>
 
+# Trees
 <details>
+<summary>Basics</summary>
+</details>
 
+<details>
+<summary>Top Interview Problems</summary>
 </details>
