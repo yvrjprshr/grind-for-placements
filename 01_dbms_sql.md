@@ -99,7 +99,7 @@
 <details>
 
 <summary> SQL </summary>
----
+
 ``` LIKE '%s' ```
 Like Operator
 
@@ -111,7 +111,19 @@ It has 2 wild card characters
 
 ---
 
+
+
 ```DISTINCT Country``` => shows unqiue or different values
 
+
 ---
+
+
+```LEFT(col_name, x)``` and ```RIGHT(col_name, x)``` key words gives x charaters from left and right respectively and in operator to check something inside 
+
+Example: ```SELECT DISTINCT city FROM station where LEFT(city, 1) in ('a', 'e', 'i', 'o', 'u') and RIGHT(city, 1) in ('a', 'e', 'i', 'o', 'u')```
+
+---
+
+
 </details>
